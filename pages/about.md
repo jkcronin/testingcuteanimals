@@ -13,7 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 We are all tired and stressed out these days. An exhibition full of cute animal photos is a chance to give your brain a break. 
-
+![alt text](pigride.jpg)
+## Resources
 [Animals and Art Teaching Resource](https://www.tate.org.uk/art/teaching-resource/animals-art)
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
