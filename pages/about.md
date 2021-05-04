@@ -12,14 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
-
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
+We are all tired and stressed out these days. An exhibition full of cute animal photos is a chance to give your brain a break. 
+[The Tate has a great teaching resource on the topic of animals in art] (https://www.tate.org.uk/art/teaching-resource/animals-art)
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
