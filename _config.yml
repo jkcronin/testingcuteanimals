@@ -12,7 +12,7 @@ url: https://jkcronin.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /testingcuteanimals/
 # location of code, the full url to your github repository
-source-code: https://jkcronin.github.io/testingcute
+source-code: https://jkcronin.github.io/testingcuteanimals/
 
 ##########
 # SITE SETTINGS
@@ -31,7 +31,7 @@ author: JKC
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: dsitestmetadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
